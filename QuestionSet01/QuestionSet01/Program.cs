@@ -10,6 +10,12 @@ namespace QuestionSet01
     {
         static void Main(string[] args)
         {
+            sum(10,20);        
+        }
+        public static void sum(int a, int b)
+        {
+            int temp = a + b;
+            Console.WriteLine(temp);
         }
     }
 }

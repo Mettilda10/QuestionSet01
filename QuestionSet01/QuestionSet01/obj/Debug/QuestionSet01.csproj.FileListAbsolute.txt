@@ -1,1 +1,6 @@
 D:\Git\QuestionSet01\QuestionSet01\QuestionSet01\bin\Debug\QuestionSet01.exe.config
+D:\Git\QuestionSet01\QuestionSet01\QuestionSet01\bin\Debug\QuestionSet01.exe
+D:\Git\QuestionSet01\QuestionSet01\QuestionSet01\bin\Debug\QuestionSet01.pdb
+D:\Git\QuestionSet01\QuestionSet01\QuestionSet01\obj\Debug\QuestionSet01.csprojResolveAssemblyReference.cache
+D:\Git\QuestionSet01\QuestionSet01\QuestionSet01\obj\Debug\QuestionSet01.exe
+D:\Git\QuestionSet01\QuestionSet01\QuestionSet01\obj\Debug\QuestionSet01.pdb
